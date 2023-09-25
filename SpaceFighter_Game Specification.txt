@@ -1,0 +1,14 @@
+
+The version of unity: 2020.3.29f1c1
+
+Resolution: 500 width * 1300 height
+
+Operation:
+1. Left-click PLAY button can start the game.
+2. Left-click QUIT button can exit the game.
+3. Left-click HELP button show some specifical keyboard.
+4. Left-click RESTART button will restart the game.
+4. Press the Spacebar will pause or resumes the game and show a stop scene for restarting and quitting.
+
+Some Tips when run the code:
+1. Set the Scenes Order in File-->Build Settings. ( Menu:0, Help: 1, Game: 2)
