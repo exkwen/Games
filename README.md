@@ -6,7 +6,7 @@ Lose game: the spacefighter is destroyed because two particles/debris are overla
 More than five debris (grey particles) in the bottom area.
 The particles attain the move area of the space fighter.
 
-manupulate:
+Operation:
 
 Left-click (mouse): Begins the game and starts the timer.
 Right arrow: Moves Space Fighter towards the right side
